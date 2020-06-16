@@ -275,6 +275,8 @@ tests/QuickGraph.FST.Tests/DOTfst/*
 tests/QuickGraph.FSA.Tests/DOTfsa/*
 *.orig
 
+.idea/
+.ionide/
 .paket/
 .vs/
 1
